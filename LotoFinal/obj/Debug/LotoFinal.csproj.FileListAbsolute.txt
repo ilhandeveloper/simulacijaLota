@@ -1,0 +1,6 @@
+C:\Users\icy_t\Desktop\C# - Projekti\joca\LotoFinal\LotoFinal\bin\Debug\LotoFinal.exe.config
+C:\Users\icy_t\Desktop\C# - Projekti\joca\LotoFinal\LotoFinal\bin\Debug\LotoFinal.exe
+C:\Users\icy_t\Desktop\C# - Projekti\joca\LotoFinal\LotoFinal\bin\Debug\LotoFinal.pdb
+C:\Users\icy_t\Desktop\C# - Projekti\joca\LotoFinal\LotoFinal\obj\Debug\LotoFinal.exe
+C:\Users\icy_t\Desktop\C# - Projekti\joca\LotoFinal\LotoFinal\obj\Debug\LotoFinal.pdb
+C:\Users\icy_t\Desktop\C# - Projekti\joca\LotoFinal\LotoFinal\obj\Debug\LotoFinal.csprojResolveAssemblyReference.cache
